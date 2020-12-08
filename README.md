@@ -1,5 +1,5 @@
 
-# Internet_Connectivity_login
+# Internet_Connectivity_login-App
 
 # logo
 <img src='https://user-images.githubusercontent.com/73393935/101490679-83861180-3984-11eb-9817-d2ed76feea67.png' width=180 />
