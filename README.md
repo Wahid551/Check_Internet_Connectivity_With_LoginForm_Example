@@ -1,16 +1,20 @@
-# internet_connectivity_login
 
-A new Flutter application.
+# Internet_Connectivity_login
 
-## Getting Started
+# logo
+<img src='https://user-images.githubusercontent.com/73393935/101490679-83861180-3984-11eb-9817-d2ed76feea67.png' width=180 />
 
-This project is a starting point for a Flutter application.
+# Discription 
+We use internet connectivity checking concept in this Application. App will start when you connect to internet othwerwise app does not start. Moreover, when your internet is connected then Login data will Sending otherwise you will have to face internet connection error.
 
-A few resources to get you started if this is your first Flutter project:
+## Fearures
+1. Splash screen
+2. check internet connectivity (continuosly)
+3. Flutter Toaster
+4. Explain with Login Form example.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Some Pictures
+<img src='https://user-images.githubusercontent.com/73393935/101491968-2c813c00-3986-11eb-8bfe-a02ca6b655e4.jpeg' width=300 />    <img src='https://user-images.githubusercontent.com/73393935/101490514-46ba1a80-3984-11eb-9d24-2472e9bbb8fe.jpeg' width=300 />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Working
+<img src='' width=300 />
